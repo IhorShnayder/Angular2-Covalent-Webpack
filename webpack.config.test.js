@@ -73,7 +73,7 @@ module.exports = setTypeScriptAlias(require('./tsconfig.json'), {
             { test: /\.css/, loader: 'raw-loader' },
 
             // SASS files
-            //{ test: /\.scss$/, loaders: ['raw-loader', 'sass-loader?sourceMap'] },
+            { test: /\.scss$/, loaders: ['raw-loader', 'sass-loader?sourceMap'] },
 
             // JSON files
             { test: /\.json$/, loader: 'json-loader' },

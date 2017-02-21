@@ -1,20 +1,3 @@
-﻿@import '~@angular/material/core/theming/all-theme';
-@import '~@covalent/core/theming/all-theme';
-@import '~@covalent/markdown/markdown-theme';
-@import '~@covalent/charts/charts-theme';
-@import '~@covalent/highlight/highlight-theme';
-
-@include md-core();
-
-$primary: md-palette($md-blue, 700);
-$accent:  md-palette($md-orange, 800, A100, A400);
-
-$warn:    md-palette($md-red, 600);
-
-$theme: md-light-theme($primary, $accent, $warn);
-
-@include angular-material-theme($theme);
-@include covalent-theme($theme);
-@include covalent-markdown-theme($theme);
-@include covalent-charts-theme($theme);
-@include covalent-highlight-theme();
+﻿.foo{
+    font-size: 12px;
+}
