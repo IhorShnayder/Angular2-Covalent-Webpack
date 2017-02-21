@@ -6,7 +6,7 @@ const ContextReplacementPlugin = require('webpack/lib/ContextReplacementPlugin')
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = (env) => {
-    
+
     const extractCSS = new ExtractTextPlugin('vendor.css');
     const isDevBuild = !(env && env.prod);
 
@@ -25,7 +25,7 @@ module.exports = (env) => {
                     loader: ExtractTextPlugin.extract({ fallbackLoader: 'style-loader', loader: 'css-loader' })
                 },
                 { test: /\.(png|woff|woff2|eot|ttf|svg)(\?|$)/, use: 'url-loader?limit=100000' }
-            
+
             ]
         },
         entry: {
@@ -38,12 +38,12 @@ module.exports = (env) => {
                 '@angular/platform-browser-dynamic',
                 '@angular/router',
                 '@angular/platform-server',
-                  "@covalent/core",
-                 "@covalent/charts",
-                 "@covalent/dynamic-forms",
-                 "@covalent/highlight",
-                 "@covalent/markdown",
-                'angular2-universal',           
+                '@covalent/core',
+                '@covalent/charts',
+                '@covalent/dynamic-forms',
+                '@covalent/highlight',
+                '@covalent/markdown',
+                'angular2-universal',
                 'angular2-universal-polyfills',
                 'core-js',
                 'es6-promise',
@@ -65,7 +65,7 @@ module.exports = (env) => {
         plugins: [
             // Uncomment if you want to use jQuery
             // new webpack.ProvidePlugin({ $: 'jquery', jQuery: 'jquery' }), // Maps these identifiers to the jQuery package (because Bootstrap expects it to be a global variable)
-            
+
             new webpack.ContextReplacementPlugin(/\@angular\b.*\b(bundles|linker)/, path.join(__dirname, './Client')), // Workaround for https://github.com/angular/angular/issues/11580
             // extractCSS,
             //new webpack.ProvidePlugin({ $: 'jquery', jQuery: 'jquery' }), // Maps these identifiers to the jQuery package (because Bootstrap expects it to be a global variable)
@@ -107,7 +107,7 @@ module.exports = (env) => {
             libraryTarget: 'commonjs2',
         },
         module: {
-            rules: [ { test: /\.css(\?|$)/, use: ['to-string-loader', 'css-loader'] } ]
+            rules: [{ test: /\.css(\?|$)/, use: ['to-string-loader', 'css-loader'] }]
         },
         entry: { vendor: ['aspnet-prerendering'] },
         plugins: [
@@ -119,7 +119,7 @@ module.exports = (env) => {
     });
 
     return [
-        clientConfig, 
+        clientConfig,
         serverConfig
     ];
 
