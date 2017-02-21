@@ -4,6 +4,7 @@ import { DebugElement } from '@angular/core';
 import { By } from '@angular/platform-browser';
 import { TestBed, async, ComponentFixture } from '@angular/core/testing';
 import { HomeComponent } from './home.component';
+import { CovalentStepsModule } from '@covalent/core';
 
 describe('Home Component', () => {
 
@@ -15,7 +16,8 @@ describe('Home Component', () => {
     beforeEach(() => {
 
         TestBed.configureTestingModule({ 
-            declarations: [HomeComponent] 
+            declarations: [HomeComponent],
+            imports: [CovalentStepsModule.forRoot()] 
         });
 
         fixture = TestBed.createComponent(HomeComponent);

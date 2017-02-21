@@ -1,5 +1,5 @@
 {
-  "name": "vendor_02335302ea83558bd74d",
+  "name": "vendor_6167380e67ae6373efa1",
   "content": {
     "./node_modules/@angular/core/index.js": {
       "id": 0,
@@ -315,14 +315,8 @@
       "id": 13,
       "meta": {}
     },
-    "./node_modules/@angular/material/index.js": {
-      "id": 14,
-      "meta": {
-        "harmonyModule": true
-      }
-    },
     "./node_modules/@angular/compiler/src/output/output_ast.js": {
-      "id": 15,
+      "id": 14,
       "meta": {
         "harmonyModule": true
       },
@@ -400,6 +394,12 @@
         "fn",
         "literal"
       ]
+    },
+    "./node_modules/@angular/material/index.js": {
+      "id": 15,
+      "meta": {
+        "harmonyModule": true
+      }
     },
     "./node_modules/core-js/modules/_wks.js": {
       "id": 16,

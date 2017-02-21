@@ -141,7 +141,7 @@ const PROVIDERS = [
     CovalentCoreModule.forRoot(),
     CovalentChartsModule.forRoot(),   
     CovalentHighlightModule.forRoot(),
-    CovalentMarkdownModule.forRoot(),
+    CovalentMarkdownModule.forRoot()
   ],
   declarations: [
     ...PIPES,

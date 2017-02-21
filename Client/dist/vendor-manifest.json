@@ -1,5 +1,5 @@
 {
-  "name": "vendor_db335a2e4c29c2fb5c09",
+  "name": "vendor_f056a570e0a593cadbbe",
   "content": {
     "./node_modules/core-js/modules/_export.js": {
       "id": 0,
@@ -570,28 +570,24 @@
       "id": 141,
       "meta": {}
     },
-    "./node_modules/@angular/material/bundles/material.umd.js": {
+    "./node_modules/@angular/router/bundles/router.umd.js": {
       "id": 144,
       "meta": {}
     },
-    "./node_modules/@angular/router/bundles/router.umd.js": {
+    "./node_modules/@covalent/core/core.umd.js": {
       "id": 145,
       "meta": {}
     },
-    "./node_modules/@covalent/core/core.umd.js": {
+    "./node_modules/zone.js/dist/zone-node.js": {
       "id": 146,
       "meta": {}
     },
-    "./node_modules/zone.js/dist/zone-node.js": {
+    "./Client async recursive": {
       "id": 147,
       "meta": {}
     },
-    "./Client async recursive": {
-      "id": 148,
-      "meta": {}
-    },
     "./node_modules/@covalent/charts/chart-bar/chart-bar.component.js": {
-      "id": 149,
+      "id": 148,
       "meta": {
         "harmonyModule": true
       },
@@ -600,255 +596,255 @@
       ]
     },
     "./node_modules/angular2-platform-node/__private_imports__.js": {
-      "id": 150,
+      "id": 149,
       "meta": {}
     },
     "./node_modules/angular2-platform-node/node-document.js": {
-      "id": 151,
+      "id": 150,
       "meta": {}
     },
     "./node_modules/angular2-platform-node/node-location.js": {
-      "id": 152,
+      "id": 151,
       "meta": {}
     },
     "./node_modules/angular2-platform-node/node-renderer.js": {
-      "id": 153,
+      "id": 152,
       "meta": {}
     },
     "./node_modules/angular2-universal/node/node.js": {
-      "id": 154,
+      "id": 153,
       "meta": {}
     },
     "./node_modules/core-js/modules/_a-number-value.js": {
-      "id": 155,
+      "id": 154,
       "meta": {}
     },
     "./node_modules/core-js/modules/_array-copy-within.js": {
-      "id": 156,
+      "id": 155,
       "meta": {}
     },
     "./node_modules/core-js/modules/_array-from-iterable.js": {
-      "id": 157,
+      "id": 156,
       "meta": {}
     },
     "./node_modules/core-js/modules/_array-reduce.js": {
-      "id": 158,
+      "id": 157,
       "meta": {}
     },
     "./node_modules/core-js/modules/_bind.js": {
-      "id": 159,
+      "id": 158,
       "meta": {}
     },
     "./node_modules/core-js/modules/_collection-strong.js": {
-      "id": 160,
+      "id": 159,
       "meta": {}
     },
     "./node_modules/core-js/modules/_collection-to-json.js": {
-      "id": 161,
+      "id": 160,
       "meta": {}
     },
     "./node_modules/core-js/modules/_collection-weak.js": {
-      "id": 162,
+      "id": 161,
       "meta": {}
     },
     "./node_modules/core-js/modules/_ie8-dom-define.js": {
-      "id": 163,
+      "id": 162,
       "meta": {}
     },
     "./node_modules/core-js/modules/_is-integer.js": {
-      "id": 164,
+      "id": 163,
       "meta": {}
     },
     "./node_modules/core-js/modules/_iter-call.js": {
-      "id": 165,
+      "id": 164,
       "meta": {}
     },
     "./node_modules/core-js/modules/_keyof.js": {
-      "id": 166,
+      "id": 165,
       "meta": {}
     },
     "./node_modules/core-js/modules/_math-log1p.js": {
-      "id": 167,
+      "id": 166,
       "meta": {}
     },
     "./node_modules/core-js/modules/_object-define.js": {
-      "id": 168,
+      "id": 167,
       "meta": {}
     },
     "./node_modules/core-js/modules/_object-dps.js": {
-      "id": 169,
+      "id": 168,
       "meta": {}
     },
     "./node_modules/core-js/modules/_object-gopn-ext.js": {
-      "id": 170,
+      "id": 169,
       "meta": {}
     },
     "./node_modules/core-js/modules/_object-keys-internal.js": {
-      "id": 171,
+      "id": 170,
       "meta": {}
     },
     "./node_modules/core-js/modules/_object-to-array.js": {
-      "id": 172,
+      "id": 171,
       "meta": {}
     },
     "./node_modules/core-js/modules/_parse-float.js": {
-      "id": 173,
+      "id": 172,
       "meta": {}
     },
     "./node_modules/core-js/modules/_parse-int.js": {
-      "id": 174,
+      "id": 173,
       "meta": {}
     },
     "./node_modules/core-js/modules/_path.js": {
-      "id": 175,
+      "id": 174,
       "meta": {}
     },
     "./node_modules/core-js/modules/_same-value.js": {
-      "id": 176,
+      "id": 175,
       "meta": {}
     },
     "./node_modules/core-js/modules/_string-pad.js": {
-      "id": 177,
+      "id": 176,
       "meta": {}
     },
     "./node_modules/core-js/modules/_wks-ext.js": {
-      "id": 178,
+      "id": 177,
       "meta": {}
     },
     "./node_modules/core-js/modules/core.is-iterable.js": {
-      "id": 179,
+      "id": 178,
       "meta": {}
     },
     "./node_modules/core-js/modules/es6.map.js": {
-      "id": 180,
+      "id": 179,
       "meta": {}
     },
     "./node_modules/core-js/modules/es6.regexp.flags.js": {
-      "id": 181,
+      "id": 180,
       "meta": {}
     },
     "./node_modules/core-js/modules/es6.set.js": {
-      "id": 182,
+      "id": 181,
       "meta": {}
     },
     "./node_modules/core-js/modules/es6.weak-map.js": {
-      "id": 183,
+      "id": 182,
       "meta": {}
     },
     "./node_modules/d3-dsv/build/d3-dsv.js": {
-      "id": 184,
+      "id": 183,
       "meta": {}
     },
     "./node_modules/d3-ease/build/d3-ease.js": {
-      "id": 185,
+      "id": 184,
       "meta": {}
     },
     "./node_modules/d3-format/build/d3-format.js": {
-      "id": 186,
+      "id": 185,
       "meta": {}
     },
     "./node_modules/d3-quadtree/build/d3-quadtree.js": {
-      "id": 187,
+      "id": 186,
       "meta": {}
     },
     "./node_modules/d3-time-format/build/d3-time-format.js": {
-      "id": 188,
+      "id": 187,
       "meta": {}
     },
     "./node_modules/parse5/lib/common/foreign_content.js": {
-      "id": 189,
+      "id": 188,
       "meta": {}
     },
     "./node_modules/parse5/lib/parser/index.js": {
-      "id": 190,
+      "id": 189,
       "meta": {}
     },
     "./node_modules/parse5/lib/parser/open_element_stack.js": {
-      "id": 191,
+      "id": 190,
       "meta": {}
     },
     "./node_modules/parse5/lib/serializer/index.js": {
-      "id": 192,
+      "id": 191,
       "meta": {}
     },
     "./node_modules/rxjs/Observer.js": {
-      "id": 193,
+      "id": 192,
       "meta": {}
     },
     "./node_modules/rxjs/add/operator/map.js": {
-      "id": 194,
+      "id": 193,
       "meta": {}
     },
     "./node_modules/rxjs/observable/ArrayObservable.js": {
-      "id": 195,
+      "id": 194,
       "meta": {}
     },
     "./node_modules/rxjs/observable/PromiseObservable.js": {
-      "id": 196,
+      "id": 195,
       "meta": {}
     },
     "./node_modules/rxjs/observable/ScalarObservable.js": {
-      "id": 197,
+      "id": 196,
       "meta": {}
     },
     "./node_modules/rxjs/observable/fromPromise.js": {
-      "id": 198,
+      "id": 197,
       "meta": {}
     },
     "./node_modules/rxjs/observable/of.js": {
-      "id": 199,
+      "id": 198,
       "meta": {}
     },
     "./node_modules/rxjs/operator/catch.js": {
-      "id": 200,
+      "id": 199,
       "meta": {}
     },
     "./node_modules/rxjs/operator/filter.js": {
-      "id": 201,
+      "id": 200,
       "meta": {}
     },
     "./node_modules/rxjs/operator/first.js": {
-      "id": 202,
+      "id": 201,
       "meta": {}
     },
     "./node_modules/rxjs/operator/map.js": {
-      "id": 203,
+      "id": 202,
       "meta": {}
     },
     "./node_modules/rxjs/operator/mergeAll.js": {
-      "id": 204,
+      "id": 203,
       "meta": {}
     },
     "./node_modules/rxjs/operator/mergeMap.js": {
-      "id": 205,
+      "id": 204,
       "meta": {}
     },
     "./node_modules/rxjs/util/ObjectUnsubscribedError.js": {
-      "id": 206,
+      "id": 205,
       "meta": {}
     },
     "./node_modules/rxjs/util/isObject.js": {
-      "id": 207,
+      "id": 206,
       "meta": {}
     },
     "./node_modules/rxjs/util/isPromise.js": {
-      "id": 208,
+      "id": 207,
       "meta": {}
     },
     "./node_modules/rxjs/util/tryCatch.js": {
-      "id": 209,
+      "id": 208,
       "meta": {}
     },
     "./node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js": {
-      "id": 213,
+      "id": 212,
       "meta": {}
     },
     "./node_modules/@angular/platform-server/bundles/platform-server.umd.js": {
-      "id": 214,
+      "id": 213,
       "meta": {}
     },
     "./node_modules/@covalent/charts/index.js": {
-      "id": 215,
+      "id": 214,
       "meta": {
         "harmonyModule": true
       },
@@ -861,42 +857,46 @@
       ]
     },
     "./node_modules/@covalent/dynamic-forms/dynamic-forms.umd.js": {
-      "id": 216,
+      "id": 215,
       "meta": {}
     },
     "./node_modules/@covalent/highlight/highlight.umd.js": {
-      "id": 217,
+      "id": 216,
       "meta": {}
     },
     "./node_modules/@covalent/markdown/markdown.umd.js": {
-      "id": 218,
+      "id": 217,
       "meta": {}
     },
     "./node_modules/angular2-universal-polyfills/node.js": {
-      "id": 219,
+      "id": 218,
       "meta": {}
     },
     "./node_modules/angular2-universal/node/index.js": {
-      "id": 220,
+      "id": 219,
       "meta": {}
     },
     "./node_modules/aspnet-prerendering/index.js": {
-      "id": 221,
+      "id": 220,
       "meta": {}
     },
     "./node_modules/core-js/index.js": {
-      "id": 222,
+      "id": 221,
       "meta": {}
     },
     "./node_modules/es6-promise/dist/es6-promise.js": {
-      "id": 223,
+      "id": 222,
       "meta": {}
     },
     "./node_modules/jquery/dist/jquery.js": {
-      "id": 224,
+      "id": 223,
       "meta": {}
     },
     "./node_modules/signalr/jquery.signalR.js": {
+      "id": 224,
+      "meta": {}
+    },
+    "./node_modules/@angular/material/bundles/material.umd.js": {
       "id": 225,
       "meta": {}
     },
